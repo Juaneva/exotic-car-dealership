@@ -1,10 +1,6 @@
 # exotic-car-dealership
 
-# Express API task
-
-## Description
-
-* This project is part of a student project to demonstrate the newly learned Express skills.
+# React & Express API task
 
 ## Objective
 
@@ -35,5 +31,4 @@ Update information of a car by ID.
 * readme.md
 
 ### Author of this project
-
 https://github.com/juaneva
